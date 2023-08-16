@@ -87,7 +87,6 @@ data/raw/*
 
 # logs
 reports/logs/*
-reports/figures/*
 !reports/logs/.gitkeep
 !reports/figures/.gitkeep
 
