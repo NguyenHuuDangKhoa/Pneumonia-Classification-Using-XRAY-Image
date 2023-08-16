@@ -85,6 +85,12 @@ data/raw/*
 !data/processed/.gitkeep
 !data/raw/.gitkeep
 
+# logs
+reports/logs/*
+reports/figures/*
+!reports/logs/.gitkeep
+!reports/figures/.gitkeep
+
 # Mac OS-specific storage files
 .DS_Store
 
